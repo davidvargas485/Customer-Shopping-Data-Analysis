@@ -1,4 +1,4 @@
-# Customer Shopping Data Analysis¶
+# Customer Shopping Data Analysis
 
 ## Description
 This exercise uses shopping data provided by [Vivek Chandan](https://www.kaggle.com/datasets/vivekchandan/customer-shopping-data). Here, I explore the data to get an idea about who the customers are, as well as discover interesting insights about the purchasing habits of customers.
@@ -22,31 +22,30 @@ Here are some interesting findings!
 
 #### The most purchased products are clothing, cosmetics, and food & beverage regardless of age or gender.
 
-<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/221d35a4-87cd-4d36-8cfd-c3e47ed6c6dc">
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/22311883-949b-4c77-ab37-53ffabceb48f">
 
-<img width="335" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/68d810b9-57d8-4275-a590-00c57b1b7b89">
-
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/22a63610-068f-4649-a412-ae141aafc5e2">
 
 #### Customers are most likely to spend $250 or less regardless of age or gender.
 
-<img width="345" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/9a673380-1bf4-40d5-ab0d-acf4a651e418">
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/e0d2e9b2-b8b2-44bd-963e-88525699b5de">
 
-<img width="345" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/e15ff950-41b9-42a1-8305-352f7f332c66">
-
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/22cdf2c5-ef87-4486-8dc1-6a3ffdc45e3e">
 
 #### Most purchases are made and highest revenue is generated in July and October.
 
-<img width="329" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/c36d4c1b-e96e-4cc8-adba-1140c6845d3a">
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/2bad1192-dcde-4e88-9e6a-ff18b5737019">
 
-<img width="344" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/b51df89f-696e-40b3-8720-7e490e3f7a0a">
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/784ec511-b26d-4541-95b7-9d810c3c7168">
 
-<img width="392" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/4bf1bbe3-0b97-44e4-88a9-bb4f1ca1321c">
+<img width="358" alt="image" src="https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/assets/127991602/771ccdff-0ee2-44fc-8f30-c9736ee3044e">
 
-For more insights, check out the full report [here](https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/blob/main/analysis-report-DV.pdf).
+##### For more insights, check out the full report [here](https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/blob/main/analysis-report-DV.pdf).
 
 ## Explore the Code
 
 To explore the SQL used in this project click [here](https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/blob/main/customer-shopping-data-analysis.sql).
+
 To explore my R reproduction of this project click [here](https://github.com/davidvargas485/Customer-Shopping-Data-Analysis/blob/main/customer-shopping-data-analysis.R).
 
 ## Credits
